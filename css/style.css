@@ -1,0 +1,15 @@
+.logo {
+    background-position: center;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    background-image: url(https://nusamandiri.info/wp-content/uploads/2022/04/cropped-logo-universitas-nusa-mandiri.png);
+    background-size: cover;
+    border-radius: 25%;
+}
+
+.main-header {
+    display: flex;   
+    justify-content: space-between;
+    align-items: center;
+}
